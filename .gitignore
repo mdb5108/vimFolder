@@ -1,0 +1,5 @@
+#Ignore the tags folder since it is system independent.
+tags/
+*.tgz
+.netrwhist
+systags
